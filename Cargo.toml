@@ -1,0 +1,17 @@
+[package]
+name = "misomiso"
+version = "0.1.0"
+authors = ["銀猫さん (silverscat_3) <silverscat_3@mail.sc3.fun>"]
+edition = "2018"
+description = "Ported misomiso.exe to Rust and made it compatible with Misskey"
+readme = "README.adoc"
+repository = "https://github.com/silverscat-3/misomiso.rs"
+license = "Apache-2.0 OR MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+docopt = "1.0"
+tokio = { version = "1.0", features = ["full"] }
+anyhow = "1.0"
+misskey = "0.2"

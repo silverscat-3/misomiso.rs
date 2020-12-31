@@ -1,0 +1,29 @@
+= misomiso.rs
+銀猫さん <silverscat_3@mail.sc3.fun>
+
+Ported link:https://github.com/mamemomonga/misomiso.exe[misomiso.exe] to Rust and made it compatible with link:https://github.com/syuilo/misskey[Misskey].
+
+== Feature
+
+- [ ] Misskey Support
+- [ ] Mastodon Support
+- [ ] Pleroma Support
+
+== License 
+
+Licensed under either of
+
+- Apache License, Version 2.0 (link:./LICENSE-APACHE[LICENSE-APACHE] or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license (link:./LICENSE-MIT[LICENSE-MIT] or http://opensource.org/licenses/MIT)
+
+at your option.
+
+=== Contribution
+
+Unless you explicitly state otherwise, any contribution intentionally submitted
+for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any
+additional terms or conditions.
+
+== Author
+
+銀猫さん <silverscat_3@mail.sc3.fun>
